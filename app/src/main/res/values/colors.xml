@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">@color/normal_color</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="main_bottom_tab_textcolor_normal">#999999</color>
+    <color name="main_bottom_tab_textcolor_selected">@color/normal_color</color>
+
+
+    <color name="normal_color">#0093fe</color>
+
+</resources>

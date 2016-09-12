@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">WeChatDemo</string>
+
+    <array name="tab_main_title">
+        <item>主页</item>
+        <item>消息</item>
+        <item>我的</item>
+    </array>
+</resources>
